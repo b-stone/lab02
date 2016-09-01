@@ -2,6 +2,7 @@
 
 ## Define the followint terms:
 * object,
+** An object is cool.
 * class,
 * instance,
 * method,
